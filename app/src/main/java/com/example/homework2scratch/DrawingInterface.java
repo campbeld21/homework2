@@ -58,7 +58,7 @@ public class DrawingInterface extends SurfaceView  {
 
     public static int skyLeft = 0;
     public static int skyTop = 0;
-    public static int skyRight = 2000;
+    public static int skyRight = 2200;
     public static int skyBottom = rectBottom;
 
     String chimneyName = "Chimney";
